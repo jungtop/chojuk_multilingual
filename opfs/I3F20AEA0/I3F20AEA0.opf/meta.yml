@@ -1,0 +1,66 @@
+id: I3F20AEA0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-26T14:19:23.806039'
+last_modified: '2022-06-26T14:19:23.806141'
+parser: null
+source_metadata:
+  title: Bodhicaryāvatāra Series
+  language: en
+  description: 'Lotsawa House presents the following texts as part of its Bodhicaryāvatāra
+    Series:'
+  volume:
+    f667D:
+      title: 'Bodhicaryāvatāra—Chapter 1: The Benefits of Bodhicitta'
+      base_file: f667D.txt
+      order: 1
+      parent: Bodhicaryāvatāra Root text
+    f558A:
+      title: 'Bodhicaryāvatāra—Chapter 2: Confession of Negativity'
+      base_file: f558A.txt
+      order: 2
+      parent: Bodhicaryāvatāra Root text
+    fD6CA:
+      title: 'Bodhicaryāvatāra—Chapter 3: Fully Adopting Bodhicitta'
+      base_file: fD6CA.txt
+      order: 3
+      parent: Bodhicaryāvatāra Root text
+    fC2FE:
+      title: Overview of the Bodhicaryāvatāra
+      base_file: fC2FE.txt
+      order: 5
+      parent: Commentaries
+    f8346:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      base_file: f8346.txt
+      order: 6
+      parent: Commentaries
+    f2EFF:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      base_file: f2EFF.txt
+      order: 7
+      parent: Commentaries
+    f969D:
+      title: Bodhicaryāvatāra Lineage Prayer
+      base_file: f969D.txt
+      order: 8
+      parent: Lineage Prayers
+    f5A98:
+      title: Prayer to the Lineage of the Bodhicaryāvatāra
+      base_file: f5A98.txt
+      order: 9
+      parent: Lineage Prayers
+    fEEFE:
+      title: 'Vines of Amṛta: A Prayer to the Lineage of the Bodhicaryāvatāra'
+      base_file: fEEFE.txt
+      order: 10
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
